@@ -82,6 +82,12 @@ header .highlight, header .current a{
   font-weight: bold;
 }
 
+#Discord-link{
+  text-decoration: none;
+  color: #e8491d;
+
+}
+
 header a:hover{
   color: #ccc;
   font-weight: bold;
@@ -173,7 +179,7 @@ footer{
   margin-top: 20px;
   color: #fff;
   background-color: #e8491d;
-  text-align: right;
+  text-align: left;
 }
 
 /* Media Queries */
