@@ -216,4 +216,10 @@ footer{
     margin-bottom: 5px;
   }
 
+  #Discord-link{
+    text-decoration: none;
+    color: #e8491d;
+
+  }
+
 }
